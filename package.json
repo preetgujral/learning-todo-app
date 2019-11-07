@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.13.3",
-    "mongoose": "^4.2.7"
+    "mongoose": "^5.7.8"
   },
   "devDependencies": {
     "chai": "^3.4.1",
